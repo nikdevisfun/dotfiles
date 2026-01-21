@@ -1,0 +1,15 @@
+*
+!.gitignore
+
+# unignore dirs first
+!.config/
+!.config/nvim/
+!.config/tmux/
+!images/
+
+# then files
+!.config/nvim/**/*
+!.config/tmux/*
+!README.md
+!images/*
+
