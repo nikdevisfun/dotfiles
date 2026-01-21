@@ -12,4 +12,5 @@
 !.config/tmux/*
 !README.md
 !images/*
+!.zshrc
 
