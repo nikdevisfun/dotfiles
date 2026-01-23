@@ -24,7 +24,7 @@ return {
     keys = {
         -- Normal jump
         {
-            ";",
+            "<leader>;",
             mode = { "n", "x", "o" },
             function()
                 require("flash").jump()
