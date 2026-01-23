@@ -13,8 +13,8 @@ return {
         -- stiffness = 0.55,
         -- trailing_stiffness = 0.25,
         --
-        -- stiffness = 0.45,
-        -- trailing_stiffness = 0.18,
+        stiffness = 0.45,
+        trailing_stiffness = 0.18,
         --
         -- stiffness = 0.45,
         -- trailing_stiffness = 0.18,
