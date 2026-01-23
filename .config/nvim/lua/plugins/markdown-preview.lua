@@ -27,7 +27,7 @@ return {
 
             vim.keymap.set(
                 "n",
-                "<leader>mp",
+                "<C-p>",
                 "<cmd>MarkdownPreviewToggle<CR>",
                 { desc = "Toggle Markdown Preview" }
             )
